@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+*{
+    font-family: 'Quicksand', sans-serif;
+    box-sizing: border-box;
+}
+h1{
+    color:  black;
+}
+
+body {
+    background-color: #090A0E;
+    /* color: #ffffff; */
+}
+.dashbor{
+    font-size: 50px;
+    text-align: center;
+}
+.me-auto{
+    text-decoration: none;
+}
+.navbars{
+    text-decoration: none;
+}
+.forja{
+color: red;
+margin-left: 15px;
+font-size: 30px;
+}
